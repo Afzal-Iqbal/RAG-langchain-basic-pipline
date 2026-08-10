@@ -1,0 +1,52 @@
+Python Overview
+1
+2
+3
+Python is a high-level, interpreted, and object-oriented programming language created by Guido van Rossum in 1991. It is widely recognized for its simple, readable syntax and versatility, making it suitable for beginners and professionals alike. Python supports multiple programming paradigms including procedural, object-oriented, and functional programming.
+
+Key Features:
+
+Cross-platform: Runs on Windows, macOS, Linux, and more.
+
+Interpreted: No compilation step; code runs directly in the interpreter.
+
+Dynamic typing and automatic memory management.
+
+Extensive standard library (“batteries included”) for tasks like file I/O, networking, and data processing.
+
+Open-source under the Python Software Foundation License.
+
+Why Python is Popular: Its English-like syntax allows developers to write fewer lines of code compared to other languages. Python’s design philosophy, known as The Zen of Python, emphasizes readability, simplicity, and explicitness.
+
+Example:
+
+# Simple Hello World program
+print("Hello, World!")
+Copy
+Here, print() is a built-in function that outputs text to the console.
+
+Indentation Rules: Python uses whitespace indentation to define code blocks instead of braces {}. Consistent indentation is mandatory, typically 4 spaces per level.
+
+Applications:
+
+Web Development (e.g., Django, Flask)
+
+Data Science & Machine Learning (e.g., Pandas, TensorFlow)
+
+Automation & Scripting
+
+Game Development
+
+System Administration
+
+Programming Styles Supported:
+
+Imperative & Structured
+
+Object-Oriented
+
+Functional Programming
+
+Pythonic Code Style: Encourages writing clean, explicit, and readable code. Following the Zen of Python helps maintain maintainable and elegant solutions.
+
+In summary, Python’s readability, flexibility, and vast ecosystem make it one of the most widely used programming languages today, suitable for everything from quick scripts to large-scale applications.
